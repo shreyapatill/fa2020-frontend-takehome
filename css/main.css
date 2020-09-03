@@ -63,3 +63,20 @@ code {
     background-color: #121212;
     color: white;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table,td,th {
+    border: 1px black solid; 
+}
+
+td, th {
+    padding: 4px;
+}
+
+th {
+    text-align: left;
+}
