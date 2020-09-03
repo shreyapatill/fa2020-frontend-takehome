@@ -1,10 +1,10 @@
 # Founders Fall 2020 Frontend Takehome
 
-Get a list of foods and their nutritional information from our API and format it into a table using JavaScript, Babel, and React.JS.
+Get a list of foods with their nutritional information from our API and format it into a table using JavaScript, Babel, and React.JS.
 
 Feel free to consult as many outside resources as you would like and push your code to a fork of this repository when you are done.
 
-Questions? Feel free to reach out here: `sirajsc2 [at] illinois [dot] edu`.
+Questions, errors, or needed clarifications? Reach out here: `sirajsc2 [at] illinois [dot] edu`.
 
 ## Resources
 
@@ -12,17 +12,17 @@ Questions? Feel free to reach out here: `sirajsc2 [at] illinois [dot] edu`.
 
 ## Task
 
-### ⚠️ You only need to edit `components/Table.js`
+#### ⚠️ You only need to edit `components/Table.js` to complete this exercise
 
 1. Fork this repository
-2. Make a GET request to `https://founders-takehome-api.herokuapp.com/api` in the `Table` React component
+2. Make a GET request to `https://founders-takehome-api.herokuapp.com/api/fetch` in the `Table` React component
 3. Process this data into an HTML Table that is returned for rendering by the `Table` component
+4. Don't forget to commit and push your solution
 
 ## Setup
 
 1. Clone your fork of this repository
-2. Run a local HTTP server (recommended) or open the filpath of `index.html` in a browser
-3. Commit and push your solution
+2. Run a local HTTP server (any solution is fine, [`http-server`](https://www.npmjs.com/package/http-server) is a good option)
 
 ## External Help
 
